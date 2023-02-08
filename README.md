@@ -12,7 +12,7 @@ TODO: List your cookbook requirements. Be sure to include any requirements this 
 e.g.
 ### Platforms
 
-- SandwichOS
+- SandwichOS/CentSO/redhat/OracleLinux
 
 ### Chef
 
